@@ -1,0 +1,23 @@
+255 253 3     DO    Suppress Go Ahead
+255 251 24    WILL  Terminal Type
+255 251 31    WILL  Negotiate About Window Size
+255 251 32    WILL  Terminal Speed
+255 251 33    WILL  Remote Flow Control
+255 251 34    WILL  Linemode
+255 251 39    WILL  New Environment Option
+255 253 5     DO    Status
+255 251 35    WILL  X Display Location
+
+DO : Indicates the request that the other party perform, or 
+     confirmation that you are expecting the other party to perform, the indicated option.
+
+WILL : Indicates the desire to begin performing, or confirmation that
+       you are now performing, the indicated option. 
+
+
+
+
+
+
+
+       
